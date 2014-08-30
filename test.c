@@ -5,7 +5,6 @@
 --  Test for my VGA driver for MaRTE OS                                    --
 --                                                                         --
 --  author:   Álvaro García                                                --
---  email:    alvaro@binarynonsense.com                                    --
 --  website:  www.binarynonsense.com                                       --
 --                                                                         --
 --  file: test.c                                                           --

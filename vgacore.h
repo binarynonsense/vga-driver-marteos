@@ -5,7 +5,6 @@
 --  My VGA driver for MaRTE OS                                             --
 --                                                                         --
 --  author:   Álvaro García                                                --
---  email:    alvaro@binarynonsense.com                                    --
 --  website:  www.binarynonsense.com                                       --
 --                                                                         --
 --  file: vgacore.h                                                        --
